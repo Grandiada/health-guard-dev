@@ -1,0 +1,137 @@
+.ukoqjg0 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  gap: 4px;
+}
+.ukoqjg1 {
+  height: 100%;
+}
+.ukoqjg2 {
+  height: 100%;
+  flex-grow: 1;
+  display: flex;
+  gap: 24px;
+  padding: 16px;
+  flex-direction: column;
+}
+._4trf9i0 {
+  display: flex;
+  gap: 13px;
+}
+._4trf9i1 {
+  flex: 1;
+}
+._4trf9i2 {
+  display: flex;
+  gap: 4px;
+  flex-direction: column;
+}
+._4trf9i3 {
+  padding: 24px;
+  display: flex;
+  justify-content: center;
+}
+.q0853s0 {
+  display: flex;
+  gap: 13px;
+}
+.q0853s1 {
+  flex: 1;
+}
+.q0853s2 {
+  display: flex;
+  gap: 4px;
+  flex-direction: column;
+}
+.q0853s3 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.q0853s4 {
+  padding: 24px;
+  display: flex;
+  justify-content: center;
+}
+._1k2iyza0 {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 13px;
+}
+._1k2iyza1 {
+  display: flex;
+  gap: 4px;
+  flex-direction: column;
+  width: 50%;
+}
+._1k2iyza2 {
+  width: 290px;
+}
+._1k2iyza3 {
+  width: 100%;
+  height: 100%;
+  padding: 12px;
+  padding-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+._1k2iyza4 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+._1k2iyza5 {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.m82vpy0 {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  padding: 16px;
+}
+.v0q23y0 {
+  height: 100%;
+  width: 320px;
+  padding: 10px;
+  gap: 28px;
+  display: flex;
+  flex-direction: column;
+}
+.v0q23y1 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.v0q23y2 {
+  display: flex;
+  gap: 6px;
+}
+.v0q23y3 {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  margin-right: -8px;
+  flex: 1;
+  padding-right: 4px;
+  gap: 8px;
+}
+.v0q23y4 {
+  font-family: var(--_1msbvk2q);
+  font-size: var(--_1msbvk2r);
+  font-style: var(--_1msbvk2s);
+  font-weight: var(--_1msbvk2t);
+  line-height: var(--_1msbvk2u);
+  color: var(--_1msbvk21);
+}
+.v0q23y5 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+/*# sourceMappingURL=676.css.map*/
