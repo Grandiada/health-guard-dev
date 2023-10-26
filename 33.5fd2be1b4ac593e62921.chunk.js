@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhealthguard=self.webpackChunkhealthguard||[]).push([[33],{33:(e,a,s)=>{s.r(a),s.d(a,{Component:()=>h});var t=s(5893),r=s(1069);s(7294);const h=()=>(0,t.jsx)(r.Xg,{headerText:"Exercises",contentSlot:(0,t.jsx)(t.Fragment,{children:"TBD"})});h.displayName="DiaryPage"}}]);
+//# sourceMappingURL=33.5fd2be1b4ac593e62921.chunk.js.map

@@ -1,2 +1,2 @@
 "use strict";(self.webpackChunkhealthguard=self.webpackChunkhealthguard||[]).push([[709],{1709:(s,a,e)=>{e.r(a),e.d(a,{Component:()=>l});var d=e(5893);e(7294),e(8211),e(3320),e(4109),e(635),e(199),e(3937),e(9782),e(7582),e(9007),e(6756),e(6385),e(6173),e(7619),e(3425),e(4023),e(8622),e(3062),e(417),e(1024),e(3678),e(9071),e(6146);const l=()=>(0,d.jsxs)("div",{className:"_76s7kt0",children:[(0,d.jsx)("div",{className:"_76s7kt1",children:(0,d.jsx)("div",{className:"_76s7kt2",children:"Dashboard"})}),(0,d.jsx)("div",{className:"_76s7kt3",children:"TBD"}),(0,d.jsx)("div",{className:"_76s7kt4",children:"TBD"})]});l.displayName="DiaryPage"}}]);
-//# sourceMappingURL=709.2917665fbe3710e40d57.chunk.js.map
+//# sourceMappingURL=709.e5e228945766436b5a9c.chunk.js.map
